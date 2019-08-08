@@ -1,0 +1,25 @@
+{
+  "name": "20.3-konfiguracja",
+  "version": "1.0.0",
+  "description": "konfiguracja webpacka",
+  "main": "app.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.6",
+    "webpack": "^4.36.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawMas/19.3-konfiguracja-webpacka.git"
+  },
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawMas/19.3-konfiguracja-webpacka/issues"
+  },
+  "homepage": "https://github.com/DawMas/19.3-konfiguracja-webpacka#readme"
+}
